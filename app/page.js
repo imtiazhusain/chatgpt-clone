@@ -131,7 +131,7 @@ export default function Home() {
           {messages.length === 0 && !loading && (
             <div className="flex flex-col items-center justify-center h-64 gap-3 text-center">
               <div className="w-10 h-10 rounded-xl bg-[#f0ede8] flex items-center justify-center">
-                <span className="text-[15px] font-medium text-[#111110]">C</span>
+                <span className="text-[15px] font-medium text-[#111110]">P</span>
               </div>
               <p className="text-sm text-white/40">Ask me anything — I can search the web too.</p>
             </div>
